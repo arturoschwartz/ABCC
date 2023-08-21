@@ -1,0 +1,15 @@
+C:\ABCC\obj\Debug\ABCC.csproj.AssemblyReference.cache
+C:\ABCC\obj\Debug\ABCC.csproj.SuggestedBindingRedirects.cache
+C:\ABCC\obj\Debug\ABCC.Formas.Frmabcc.resources
+C:\ABCC\obj\Debug\ABCC.Properties.Resources.resources
+C:\ABCC\obj\Debug\ABCC.csproj.GenerateResource.cache
+C:\ABCC\obj\Debug\ABCC.csproj.CoreCompileInputs.cache
+C:\ABCC\bin\Debug\ABCC.exe.config
+C:\ABCC\bin\Debug\ABCC.exe
+C:\ABCC\bin\Debug\ABCC.pdb
+C:\ABCC\obj\Debug\ABCC.exe
+C:\ABCC\obj\Debug\ABCC.pdb
+C:\ABCC\bin\Debug\ABCC.exe.manifest
+C:\ABCC\bin\Debug\ABCC.application
+C:\ABCC\obj\Debug\ABCC.exe.manifest
+C:\ABCC\obj\Debug\ABCC.application
